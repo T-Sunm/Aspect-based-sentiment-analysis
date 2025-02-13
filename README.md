@@ -56,6 +56,7 @@ Aspect-based-sentiment-analysis/
 |   ├── ate-restaurants-distilbert-base-uncased  # get in ATSC checkpoints
 ├── notebooks/
 |   ├── ASPE_inferences.ipynb # Jupyter notebooks for experimentation 
+├── tutorial.pdf  # Step by step description coding project
 ├── .gitignore  # Git ignore file for unnecessary files
 └── README.md  # Project description and instructions
 
